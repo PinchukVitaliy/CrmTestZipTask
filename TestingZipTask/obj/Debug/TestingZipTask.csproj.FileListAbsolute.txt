@@ -1,0 +1,7 @@
+C:\Users\Zigo\Source\Repos\TestingZipTask\TestingZipTask\bin\Debug\TestingZipTask.exe.config
+C:\Users\Zigo\Source\Repos\TestingZipTask\TestingZipTask\bin\Debug\TestingZipTask.exe
+C:\Users\Zigo\Source\Repos\TestingZipTask\TestingZipTask\bin\Debug\TestingZipTask.pdb
+C:\Users\Zigo\Source\Repos\TestingZipTask\TestingZipTask\obj\Debug\TestingZipTask.csprojAssemblyReference.cache
+C:\Users\Zigo\Source\Repos\TestingZipTask\TestingZipTask\obj\Debug\TestingZipTask.csproj.CoreCompileInputs.cache
+C:\Users\Zigo\Source\Repos\TestingZipTask\TestingZipTask\obj\Debug\TestingZipTask.exe
+C:\Users\Zigo\Source\Repos\TestingZipTask\TestingZipTask\obj\Debug\TestingZipTask.pdb
